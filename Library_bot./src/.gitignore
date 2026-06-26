@@ -1,0 +1,19 @@
+# Виртуальные окружения
+env/
+venv/
+.venv/
+
+# Секретные файлы
+.env
+.env.local
+.env.production
+*.env
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+.vscode/
